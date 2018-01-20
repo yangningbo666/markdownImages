@@ -1,2 +1,2 @@
-# markdownImage
-To upload the image for writting by markdown
+# markdownImages
+To upload some images for writting by markdown
